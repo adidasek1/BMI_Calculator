@@ -48,7 +48,6 @@ public class BMI_Calculator {
 	 * Tworzenie aplikacji
 	 */
 	public BMI_Calculator() {
-	// warunek czy plik istnieje
 		initialize();
 	}
 
